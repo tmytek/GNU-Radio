@@ -1,3 +1,3 @@
 # GNU-Radio
 
-##GNU Radio example
+GNU Radio example design files
